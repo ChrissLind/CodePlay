@@ -19,7 +19,7 @@ With \_codePocket we want you to bring your code with you on your phone, and be 
 Supported Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   
 ## How to use \_codePocket
-1. Enter [https://codepocket-4161f.web.app/](https://codepocket-4161f.web.app/) into your brower.
+1. Enter [https://codepocket-4161f.web.app/](https://codepocket-4161f.web.app/) into your browser.
 
 2. Login to your github via firebase authentication.
     - Once you have been logged in click the  'Into the pocket' button that will get you into the application
